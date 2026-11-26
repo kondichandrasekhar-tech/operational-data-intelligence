@@ -1,0 +1,5 @@
+pandas
+numpy
+matplotlib
+tabulate
+streamlit   # optional, only for app.py
